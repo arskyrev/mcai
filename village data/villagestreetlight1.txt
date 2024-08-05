@@ -1,0 +1,10 @@
+village street light
+
+0x3y1z wall_torch
+1x0y1z oak_fence
+1x1y1z oak_fence
+1x2y1z oak_fence
+1x3y0z wall_torch
+1x3y1z stripped_oak_wood
+1x3y2z wall_torch
+2x3y1z wall_torch

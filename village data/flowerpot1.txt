@@ -1,0 +1,16 @@
+flower pot
+
+0x0y1z oak_trapdoor
+0x0y2z oak_trapdoor
+0x0y3z oak_trapdoor
+1x0y0z oak_trapdoor
+1x0y1z grass_block
+1x0y2z grass_block
+1x0y3z grass_block
+1x0y4z oak_trapdoor
+1x1y1z poppy
+1x1y2z oxeye_daisy
+1x1y3z dandelion
+2x0y1z oak_trapdoor
+2x0y2z oak_trapdoor
+2x0y3z oak_trapdoor
